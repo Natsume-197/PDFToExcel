@@ -1,0 +1,25 @@
+{
+  "Channels": {
+    "Channel1": {
+      "name": "cartola",
+      "up_coord": 50,
+      "down_coord": 70,
+      "left_coord": 50,
+      "right_coord": 195
+    },
+    "Channel2": {
+      "name": "canal13",
+      "up_coord": 140,
+      "down_coord": 270,
+      "left_coord": 48,
+      "right_coord": 46
+    },
+    "Channel3": {
+      "name": "america tv",
+      "up_coord": 105,
+      "down_coord": 100,
+      "left_coord": 55,
+      "right_coord": 55
+    }
+  }
+}
